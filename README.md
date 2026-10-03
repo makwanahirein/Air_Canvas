@@ -176,6 +176,3 @@ The script loads the model from the **current working directory**. Run it from t
 
 
 
-## License
-
-Use and modify as you like for personal or class projects. MediaPipe and the `.task` model are subject to [Google’s MediaPipe license](https://github.com/google-ai-edge/mediapipe).
